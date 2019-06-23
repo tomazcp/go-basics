@@ -41,4 +41,5 @@ func main() {
 		age:   43,
 	}
 	fmt.Println(anonStruct)
+
 }
